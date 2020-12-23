@@ -1,3 +1,5 @@
+# https://github.com/berrycakes/miniProjects/blob/master/eCalc.py
+
 # Create a Python project to get the value of e to n number of decimal places.
 print("""This prints the value of e to n number of decimal places""")
 
